@@ -1,0 +1,49 @@
+body{
+    background-color: grey;
+    margin-left: 10px;
+    font-family: Arial, sans-serif;
+
+}
+
+nav{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline; 
+    margin-right: 20px; 
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 20%;
+}
+
+footer {
+    background-color: #333;
+    padding: 10px;
+    color: white;
+}
+
+footer > i > a {
+    color: white;
+    text-decoration: none;
+
+}
